@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/shanthi1710/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/shanthi1710/LeetCode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
