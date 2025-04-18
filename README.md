@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/shanthi1710/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/shanthi1710/LeetCode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/shanthi1710/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0627-swap-salary](https://github.com/shanthi1710/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shanthi1710/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/shanthi1710/LeetCode/tree/master/1179-game-play-analysis-i) |
