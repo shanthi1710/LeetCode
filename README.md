@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/shanthi1710/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/shanthi1710/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/shanthi1710/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [3782-find-valid-emails](https://github.com/shanthi1710/LeetCode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/shanthi1710/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Array
 |  |
