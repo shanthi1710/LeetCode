@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/shanthi1710/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/shanthi1710/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shanthi1710/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shanthi1710/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
