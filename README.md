@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shanthi1710/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shanthi1710/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
+| [1250-longest-common-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
