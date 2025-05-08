@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shanthi1710/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/shanthi1710/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shanthi1710/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shanthi1710/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shanthi1710/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shanthi1710/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/shanthi1710/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
