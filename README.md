@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shanthi1710/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shanthi1710/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shanthi1710/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shanthi1710/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shanthi1710/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/shanthi1710/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
 |  |
