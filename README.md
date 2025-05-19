@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shanthi1710/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shanthi1710/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shanthi1710/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -132,5 +134,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 | [1031-add-to-array-form-of-integer](https://github.com/shanthi1710/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
