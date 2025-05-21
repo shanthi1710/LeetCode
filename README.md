@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/shanthi1710/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shanthi1710/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/shanthi1710/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shanthi1710/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/shanthi1710/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shanthi1710/LeetCode/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
