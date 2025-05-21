@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shanthi1710/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/shanthi1710/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shanthi1710/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shanthi1710/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
