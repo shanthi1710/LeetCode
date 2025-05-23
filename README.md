@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/shanthi1710/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shanthi1710/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/shanthi1710/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shanthi1710/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shanthi1710/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shanthi1710/LeetCode/tree/master/0383-ransom-note) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shanthi1710/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shanthi1710/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shanthi1710/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shanthi1710/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shanthi1710/LeetCode/tree/master/0242-valid-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shanthi1710/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
