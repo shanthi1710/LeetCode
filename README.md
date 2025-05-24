@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/shanthi1710/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shanthi1710/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1542-consecutive-characters](https://github.com/shanthi1710/LeetCode/tree/master/1542-consecutive-characters) |
 | [2235-capitalize-the-title](https://github.com/shanthi1710/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Stack
 |  |
