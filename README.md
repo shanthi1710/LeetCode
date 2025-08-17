@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shanthi1710/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1542-consecutive-characters](https://github.com/shanthi1710/LeetCode/tree/master/1542-consecutive-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/shanthi1710/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2235-capitalize-the-title](https://github.com/shanthi1710/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shanthi1710/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shanthi1710/LeetCode/tree/master/0067-add-binary) |
 | [1031-add-to-array-form-of-integer](https://github.com/shanthi1710/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/shanthi1710/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shanthi1710/LeetCode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/shanthi1710/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
