@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shanthi1710/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shanthi1710/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
