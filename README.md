@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shanthi1710/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shanthi1710/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shanthi1710/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shanthi1710/LeetCode/tree/master/0136-single-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shanthi1710/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shanthi1710/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shanthi1710/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shanthi1710/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shanthi1710/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -95,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanthi1710/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shanthi1710/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shanthi1710/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shanthi1710/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shanthi1710/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0516-longest-palindromic-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shanthi1710/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/shanthi1710/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/shanthi1710/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shanthi1710/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
